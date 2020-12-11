@@ -1,0 +1,113 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    height: 100px;
+    z-index: -1;
+}
+.categories{
+    display: flex;
+    font-family: sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed, relative;
+    background-color: rgb(23, 23, 49);
+    color: white;
+    height:30px;
+}
+#firstImage {
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+}
+.wardrobeFavs{
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    position: relative; 
+}
+.menClothingSale {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed, relative; 
+    height: 250px;
+    width: 1260px;
+}
+.mensClothingDescription{
+    display: flex;
+    font-family: sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed, relative;
+}
+.wishList{
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    position: relative; 
+}
+.womenClothingSale {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed, relative; 
+    height: 270px;
+    width: 1260px;
+}
+.womensClothingDescription{
+    display: flex;
+    font-family: sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed, relative;
+}
+.wishList{
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    position: relative; 
+}
+.countdown{
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    position: relative; 
+}
+.countdownImages{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position:  relative; 
+    height: 350px;
+    width: 860px;
+    left: 200px;
+}
+.countdownText{
+    display: flex;
+    font-family: sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    position:  relative;
+    width: 660px;
+    left: 240px;
+}
+.shopTheLookImages {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed, relative; 
+    height: 350px;
+    width: 1260px;
+}
+.shopTheLookText{
+    display: flex;
+    font-family: sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    width: 1160px;
+    left: 40px;
+}
